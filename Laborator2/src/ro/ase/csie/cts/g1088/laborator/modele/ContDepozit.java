@@ -39,7 +39,7 @@ public class ContDepozit extends ContBancar implements Profitabil{
 
 	@Override
 	public void adaugaDobanda(double procentDobanda) {
-		// TODO Auto-generated method stub
+		this.balanta *= (1 + procentDobanda/100);
 		
 	}
 	

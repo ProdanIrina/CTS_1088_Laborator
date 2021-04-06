@@ -1,0 +1,17 @@
+Code Review
+
+1. Conventii de nume + valori hard-codate (magic numbers)
+- numele clasei nu sugereaza exact scopul acesteia
+- variabilele nu respecta MixedCamelCase
+- declararea unei variabile pe fiecare linie
+- numele functiei nu este ok
+- denumirea variabilei "temp" este abreviata
+
+- functia "calculeaza" are white spaces
+
+- elimina atributele initializate si nefolosite
+- elimina valorile predefinite  din functie
+- datele de intrare NU sunt validate
+
+
+- nu exista clasa Account

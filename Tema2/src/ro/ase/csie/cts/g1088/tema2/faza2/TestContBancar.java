@@ -14,7 +14,7 @@ public class TestContBancar {
 	public static ArrayList<Object> servicii = new ArrayList<>();
 	public static ContBancar[] conturiBancare = new ContBancar[2];
 	
-	public void startUp() {
+	public void onInit() {
 		InterfataValidare serviciuValidare = new ServiciuValidari();
 		InterfataDobandaPrincipala serviciuDobanda = new DobandaPrincipala();
 		servicii.add(serviciuValidare);

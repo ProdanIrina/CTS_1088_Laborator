@@ -15,3 +15,7 @@ FACADE
 (cuvantul cheie la facade este un api, o librarie, sau ca este greu de rezolvat)
 - nu toate clasele sunt documentate
 - API-ul trebuie sa ofere o interfata simplificata pentru un set de functii de baza
+
+ADAPTER
+3. Utilizarea unei librarii externe ce contine caractere Electronic Arts.
+- in prezent jocul contine caractere proprii ce fac parte din framework-ul ACME (CaracterJoc)

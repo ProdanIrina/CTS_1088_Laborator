@@ -27,4 +27,10 @@ public class Dragon extends SuperErou {
 		
 	}
 
+	@Override
+	public int getPuncteViata() {
+		// TODO Auto-generated method stub
+		return this.puncteVata;
+	}
+
 }

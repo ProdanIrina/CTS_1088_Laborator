@@ -7,7 +7,7 @@ FLYWEIGHT
 - modelele 3D sunt afisate pe ecran la coordonate diferite si pot avea texturi de culori diferite
 - trebuie gasita o solutie eficienta privind gestiunea acestor situatii
 
-
+PROXY
 
 2. Adaugarea unui filtru suplimentar pentru login
 - in acest moment login-ul se face prin username si parola si in cazul in care parola este gresita utilizatorul poate incerca de mai multe ori
